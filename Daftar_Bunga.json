@@ -2,10 +2,10 @@
   "title": "The Basics - Networking",
   "description": "Your app fetched this from a remote endpoint!",
   "movies": [
-    { "id": "1", "title": "Star Wars", "releaseYear": "1977" },
+    { "id": "1", "title": "Bunga kering", "releaseYear": "1977" },
     { "id": "2", "title": "Bunga mawar", "releaseYear": "1985" },
-    { "id": "3", "title": "The Matrix", "releaseYear": "1999" },
-    { "id": "4", "title": "Inception", "releaseYear": "2010" },
-    { "id": "5", "title": "Interstellar", "releaseYear": "2014" }
+    { "id": "3", "title": "Bunga matahari", "releaseYear": "1999" },
+    { "id": "4", "title": "Bunga tulip", "releaseYear": "2010" },
+    { "id": "5", "title": "Bunga uang", "releaseYear": "2014" }
   ]
 }
